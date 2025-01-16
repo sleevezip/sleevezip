@@ -1,6 +1,9 @@
-## Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist&pause=1000&color=D1C2FF&width=435&lines=I+am+working+on+nextjs+web+apps" alt="Typing SVG" /></a>
+<h1 align="center">
+Hi there 👋
+<br/>
+  I'm Sleevezip
+</h1>
 <!--
 **sleevezip/sleevezip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
